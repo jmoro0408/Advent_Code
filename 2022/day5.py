@@ -1,6 +1,5 @@
 from utils import extract_nums, read_input
 from collections import deque
-from itertools import islice
 
 INPUT_DIR = r"inputs/day5.txt"
 
