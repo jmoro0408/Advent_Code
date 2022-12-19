@@ -5,8 +5,6 @@ with open(INPUT_DIR) as f:
 
 arr = arr.split("\n")
 
-print(arr)
-
 # PArt 1
 c = 0
 for i in arr:
